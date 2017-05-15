@@ -1,3 +1,5 @@
+This repo is **not maintained** anymore. Please, see https://github.com/UbiquityRobotics/raspicam_node for more updates.
+
 raspicam_node
 =============
 
